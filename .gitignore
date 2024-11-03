@@ -1,0 +1,9 @@
+#secrets
+.env
+
+#setup files
+longtask.md
+oneclick.md
+ChillChat.md
+
+venv/
